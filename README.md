@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://laddtnov.xyz/assets/favicon.svg" width="80" height="80" alt="laddtnov mark"/>
+<a href="https://laddtnov.xyz" title="laddtnov portfolio">
+  <img src="https://laddtnov.xyz/assets/favicon.svg" width="96" height="96" alt="laddtnov mark"/>
+</a>
 
 # `>_ vladislav novytskiy`
 
