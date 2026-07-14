@@ -26,6 +26,7 @@
 | Project | Stack | Status |
 |---------|-------|--------|
 | **[laddtnov-hub](https://laddtnov.xyz)** — Cyberpunk portfolio | Vanilla JS · ES Modules · Web Audio | 🟢 live |
+| **[trailune](https://trailune.laddtnov.xyz)** — Travel tracker | SvelteKit · TypeScript | 🟢 live |
 | **vitrum** — Glassmorphic chess + AI | Vanilla JS · PWA | 🔒 private |
 | **growflow** — Finance tracker + crypto | Canvas · Vanilla JS | 🔒 private |
 | **orrery** — Universe simulation | Canvas · Physics | 🔒 private |
@@ -38,6 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/JS-f7df1e?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TS-3178c6?style=flat-square&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=000)
+![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=fff)
 ![Go](https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=fff)
 
 ---
