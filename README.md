@@ -4,7 +4,7 @@
   <img src="https://laddtnov.xyz/assets/favicon.svg" width="96" height="96" alt="laddtnov mark"/>
 </a>
 
-# `>_ vladyslav novytskiy`
+# `>_ vladyslav novytskyi`
 
 **Front-End Developer** · Cyberpunk UI · Vanilla JS · TypeScript
 
