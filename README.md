@@ -10,6 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/laddtnov.xyz-00fff2?style=flat-square&logo=firefox&logoColor=000)](https://laddtnov.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vladislav-novytskiy)
+[![npm](https://img.shields.io/npm/v/@laddtnov/cyberpunk-ui?style=flat-square&logo=npm&logoColor=fff&color=cb3837&label=@laddtnov/cyberpunk-ui)](https://www.npmjs.com/package/@laddtnov/cyberpunk-ui)
 
 </div>
 
@@ -28,7 +29,7 @@
 | **[laddtnov-hub](https://laddtnov.xyz)** — Cyberpunk portfolio | Vanilla JS · ES Modules · Web Audio | 🟢 live |
 | **[trailune](https://trailune.laddtnov.xyz)** — Travel tracker | SvelteKit · TypeScript | 🟢 live |
 | **[voidarium](https://voidarium.vercel.app)** — Interactive galaxy map | Vanilla JS · Canvas | 🟢 live |
-| **[cyberpunk-ui](https://github.com/laddtnov/cyberpunk-ui)** — Neon CSS kit | Vanilla CSS · Design Tokens | 📦 open-source |
+| **[cyberpunk-ui](https://github.com/laddtnov/cyberpunk-ui)** — Neon CSS kit | Vanilla CSS · Design Tokens | [![npm](https://img.shields.io/npm/v/@laddtnov/cyberpunk-ui?style=flat-square&color=cb3837&label=npm)](https://www.npmjs.com/package/@laddtnov/cyberpunk-ui) |
 | **vitrum** — Glassmorphic chess + AI | Vanilla JS · PWA | 🔒 private |
 | **growflow** — Finance tracker + crypto | Canvas · Vanilla JS | 🔒 private |
 | **orrery** — Universe simulation | Canvas · Physics | 🔒 private |
@@ -75,5 +76,6 @@
 <div align="center">
 <sub>Based in Ireland · Open to opportunities</sub>
 </div>
+
 
 
