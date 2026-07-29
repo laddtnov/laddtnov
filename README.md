@@ -28,6 +28,7 @@
 | **[laddtnov-hub](https://laddtnov.xyz)** — Cyberpunk portfolio | Vanilla JS · ES Modules · Web Audio | 🟢 live |
 | **[trailune](https://trailune.laddtnov.xyz)** — Travel tracker | SvelteKit · TypeScript | 🟢 live |
 | **[voidarium](https://voidarium.vercel.app)** — Interactive galaxy map | Vanilla JS · Canvas | 🟢 live |
+| **[cyberpunk-ui](https://github.com/laddtnov/cyberpunk-ui)** — Neon CSS kit | Vanilla CSS · Design Tokens | 📦 open-source |
 | **vitrum** — Glassmorphic chess + AI | Vanilla JS · PWA | 🔒 private |
 | **growflow** — Finance tracker + crypto | Canvas · Vanilla JS | 🔒 private |
 | **orrery** — Universe simulation | Canvas · Physics | 🔒 private |
@@ -74,4 +75,5 @@
 <div align="center">
 <sub>Based in Ireland · Open to opportunities</sub>
 </div>
+
 
