@@ -17,9 +17,9 @@
 
 ---
 
-> init portfolio --mode=cyberpunk
+ > init portfolio --mode=cyberpunk
 > compiling neon glows...    ████████████████ 100%
-> online at laddtnov.xyz     ✓
+> deploying to laddtnov.xyz  ✓
 
 
 
