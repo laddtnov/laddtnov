@@ -11,6 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/laddtnov.xyz-00fff2?style=flat-square&logo=firefox&logoColor=000)](https://laddtnov.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vladislav-novytskiy)
 [![npm](https://img.shields.io/npm/v/@laddtnov/cyberpunk-ui?style=flat-square&logo=npm&logoColor=fff&color=cb3837&label=@laddtnov/cyberpunk-ui)](https://www.npmjs.com/package/@laddtnov/cyberpunk-ui)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20my%20work-ff5e5b?style=flat-square&logo=ko-fi&logoColor=fff)](https://ko-fi.com/laddtnov)
 
 </div>
 
