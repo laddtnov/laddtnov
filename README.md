@@ -21,7 +21,7 @@
 > compiling neon glows...    ████████████████ 100%
 > online at laddtnov.xyz     ✓
 
-// what i build`
+
 
 ### `// what i build`
 
@@ -42,7 +42,7 @@
 | **orrery** — Universe simulation | Canvas · Physics | 🔒 private |
 | **timeflow** — Appointment tracker | React · Vite | 🔒 private |
 
-// stack
+
 
 ### `// stack`
 
