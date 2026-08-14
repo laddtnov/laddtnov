@@ -37,7 +37,7 @@ deploying to laddtnov.xyz  ✓
 | **[laddtnov-hub](https://laddtnov.xyz)** — Cyberpunk portfolio | Vanilla JS · ES Modules · Go · Web Audio | 🟢 live |
 | **[trailune](https://trailune.laddtnov.xyz)** — Travel intelligence | SvelteKit · TypeScript | 🟢 live |
 | **[voidarium](https://voidarium.laddtnov.xyz/)** — Interactive galaxy map | Vanilla JS · Canvas | 🟢 live |
-| **[breachos](https://breachos.laddtnov.xyz)**— Cyberpunk memory game + missions | Vanilla JS · CSS Animations · localStorage | 🟢 live  |
+| **[breachos](https://breachos.laddtnov.xyz)**— Cyberpunk memory game  | Vanilla JS · CSS Animations · localStorage | 🟢 live  |
 
 ### `// private / experiments`
 
