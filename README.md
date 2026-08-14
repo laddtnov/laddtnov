@@ -36,7 +36,8 @@ deploying to laddtnov.xyz  ✓
 | **[Neonflux](https://community.obsidian.md/themes/neonflux)** — Obsidian theme | CSS · Obsidian | 🟢 community theme |
 | **[laddtnov-hub](https://laddtnov.xyz)** — Cyberpunk portfolio | Vanilla JS · ES Modules · Go · Web Audio | 🟢 live |
 | **[trailune](https://trailune.laddtnov.xyz)** — Travel intelligence | SvelteKit · TypeScript | 🟢 live |
-| **[voidarium](https://voidarium.vercel.app)** — Interactive galaxy map | Vanilla JS · Canvas | 🟢 live |
+| **[voidarium](https://voidarium.laddtnov.xyz/)** — Interactive galaxy map | Vanilla JS · Canvas | 🟢 live |
+| **[breachos](https://breachos.laddtnov.xyz)**— Cyberpunk memory game + missions | Vanilla JS · CSS Animations · localStorage | 🟢 live  |
 
 ### `// private / experiments`
 
@@ -46,7 +47,6 @@ deploying to laddtnov.xyz  ✓
 | **growflow** — Finance tracker + crypto | Canvas · Vanilla JS | 🔒 private |
 | **orrery** — Universe simulation | Canvas · Physics | 🔒 private |
 | **timeflow** — Appointment tracker | React · Vite | 🔒 private |
-| **breachos** — Cyberpunk memory game + missions | Vanilla JS · CSS Animations · localStorage | 🔒 private |
 | **libra** — Book tracker + terminal UI | Vanilla JS · localStorage | 🔒 private |
 
 
