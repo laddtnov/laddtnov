@@ -18,10 +18,11 @@
 ---
 
 
-> init portfolio --mode=cyberpunk
-> compiling neon glows...    ████████████████ 100%
-> deploying to laddtnov.xyz  ✓
-
+```console
+$ init portfolio --mode=cyberpunk
+compiling neon glows...    ████████████████ 100%
+deploying to laddtnov.xyz  ✓
+```
 
 
 
@@ -45,6 +46,8 @@
 | **growflow** — Finance tracker + crypto | Canvas · Vanilla JS | 🔒 private |
 | **orrery** — Universe simulation | Canvas · Physics | 🔒 private |
 | **timeflow** — Appointment tracker | React · Vite | 🔒 private |
+| **breachos** — Cyberpunk memory game + missions | Vanilla JS · CSS Animations · localStorage | 🔒 private |
+| **libra** — Book tracker + terminal UI | Vanilla JS · localStorage | 🔒 private |
 
 
 
