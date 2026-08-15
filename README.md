@@ -38,6 +38,7 @@ deploying to laddtnov.xyz  ✓
 | **[trailune](https://trailune.laddtnov.xyz)** — Travel intelligence | SvelteKit · TypeScript | 🟢 live |
 | **[voidarium](https://voidarium.laddtnov.xyz/)** — Interactive galaxy map | Vanilla JS · Canvas | 🟢 live |
 | **[breachos](https://breachos.laddtnov.xyz)**— Cyberpunk memory game  | Vanilla JS · CSS Animations · localStorage | 🟢 live  |
+| **[libra](https://libra.laddtnov.xyz/)**- Book tracker + terminal UI  | Vanilla JS · localStorage | 🟢 live |
 
 ### `// private / experiments`
 
@@ -47,7 +48,6 @@ deploying to laddtnov.xyz  ✓
 | **growflow** — Finance tracker + crypto | Canvas · Vanilla JS | 🔒 private |
 | **orrery** — Universe simulation | Canvas · Physics | 🔒 private |
 | **timeflow** — Appointment tracker | React · Vite | 🔒 private |
-| **libra** — Book tracker + terminal UI | Vanilla JS · localStorage | 🔒 private |
 
 
 
