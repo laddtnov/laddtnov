@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://laddtnov.xyz" title="laddtnov portfolio">
-  <img src="https://laddtnov.xyz/assets/icon-192.png" width="96" height="96" alt="laddtnov mark"/>
+  <img src="https://laddtnov.xyz/assets/icon-192.png" width="150" height="150" alt="laddtnov mark"/>
 </a>
 
 # `>_ vladyslav novytskyi`
