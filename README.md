@@ -6,7 +6,7 @@
 
 # `>_ vladyslav novytskyi`
 
-**Front-End Developer** · Cyberpunk UI · Vanilla JS · TypeScript
+**Open-Source Developer** · JavaScript, TypeScript & Svelte · Creator of Cyberpunk UI & Neonflux · 🤖 Exploring AI-native tooling
 
 [![Portfolio](https://img.shields.io/badge/laddtnov.xyz-00fff2?style=flat-square&logo=firefox&logoColor=000)](https://laddtnov.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vladislav-novytskiy)
